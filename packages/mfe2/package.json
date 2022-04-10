@@ -1,5 +1,5 @@
 {
-  "name": "toto",
+  "name": "@mfe/mfe2",
   "version": "1.0.0",
   "description": "Project to help learn Webpack basics",
   "main": "index.js",
